@@ -21,7 +21,7 @@ O app Oficial da Procel, traz credibilidade e confiança ao usuário no momento 
 
 
 <h2 id="objetivo">O Objetivo:</h2>
-Alcançar o público que consome os eletroeletrônicos com o selo da PROCEL e buscam por uma comunicação clara e objetiva sobre quais informações ele carrega. O aplicativo oferece funções únicas e de credibilidade como a calculadora de gastos energéticos, os cards explicativos sobre as funções do selo PROCEL, e qual a contribuição ambiental e social do programa há 37 anos.
+Alcançar o público que utiliza eletroeletrônicos com o selo da PROCEL e buscam por uma comunicação clara e objetiva sobre quais informações ele carrega. O aplicativo oferece funções únicas e de credibilidade como a calculadora de gastos energéticos, os cards explicativos sobre as funções do selo PROCEL, e qual a contribuição ambiental e social do programa há 37 anos.
 
 <h2 id="oportunidade">A Oportunidade:</h2>
 Promover a acessibilidade e construir o valor social da PROCEL junto a seus novos usuários, conscientizando-os através de uma linguagem acessível sobre a importância do programa em relação ao combate ao desperdício e uso eficiente da energia. Outra vantagem, seria abrir a possibilidade para parcerias de marketing dentro do aplicativo se tornando também uma oportunidade rentável.       
